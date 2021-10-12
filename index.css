@@ -1,0 +1,16 @@
+body{
+    
+}
+.algorithm{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+code {
+    color: rgb(102, 0, 0);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+.children{
+   margin-top: 35px;
+}
